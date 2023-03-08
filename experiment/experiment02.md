@@ -1,7 +1,7 @@
 ---
 layout: default
 title: experiment02
-parent: experiments
+parent: Experiments
 nav_order: 2
 ---
 

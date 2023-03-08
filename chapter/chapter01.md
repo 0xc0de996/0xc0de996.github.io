@@ -1,7 +1,7 @@
 ---
 layout: default
 title: chapter01
-parent: chapters
+parent: Chapters
 nav_order: 1
 ---
 
