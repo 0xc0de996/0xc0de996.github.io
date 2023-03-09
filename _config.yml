@@ -1,10 +1,9 @@
 title: HHU-ANN-2023
 description: 河海大学人工智能学院2023年春季人工神经网络
-theme: just-the-docs
-remote_theme: pmarsceill/just-the-docs
+theme: "just-the-docs"
 
 url: https://0xc0de996.github.io
 
 aux_links:
-  "GitHub":
+  "GitHub": https://github.com/0xc0de996/0xc0de996.github.io
 aux_links_new_tab: true
