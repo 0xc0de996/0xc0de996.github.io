@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Git的安装与使用
+title: 实验一：Git的安装与使用
 parent: Experiments
 nav_order: 1
 ---

@@ -1,11 +1,11 @@
 ---
 layout: default
-title: chapter02
-parent: Chapters
+title: experiment02
+parent: Experiments
 nav_order: 2
 ---
 
-# Chapter02
+# Experiment03
 {: .no_toc }
 
 ## Table of contents
@@ -15,5 +15,3 @@ nav_order: 2
 {:toc}
 
 ---
-
-## 
