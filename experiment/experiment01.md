@@ -1,11 +1,11 @@
 ---
 layout: default
-title: experiment01
+title: Git的安装与使用
 parent: Experiments
 nav_order: 1
 ---
 
-# Experiment01
+# Git的安装与使用
 {: .no_toc }
 
 ## Table of contents
@@ -17,3 +17,7 @@ nav_order: 1
 ---
 
 ## Git安装
+
+## Git使用
+
+## 加入Classroom Github
