@@ -5,5 +5,6 @@ remote_theme: pmarsceill/just-the-docs
 
 url: https://0xc0de996.github.io
 
-aux_links: # remove if you don't want this link to appear on your pages
-  Template Repository: https://github.com/YOUR-USERNAME/YOUR-SITE-NAME
+aux_links:
+  "GitHub":
+aux_links_new_tab: true
