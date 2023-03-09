@@ -6,7 +6,6 @@ nav_order: 2
 ---
 
 # Chapter02
-
 {: .no_toc }
 
 ## Table of contents
