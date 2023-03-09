@@ -5,7 +5,12 @@ parent: Chapters
 nav_order: 1
 ---
 
-# Chapter01 {ignore=true}
+# Chapter01
 
-[TOC]
+{: .no_toc }
 
+## Table of contents
+
+{: .no_toc .text-delta }
+
+1. TOC

@@ -6,8 +6,11 @@ nav_order: 2
 ---
 
 # Chapter02
-## Table of contents
-1. TOC
-{:toc}
 
----
+{: .no_toc }
+
+## Table of contents
+
+{: .no_toc .text-delta }
+
+1. TOC

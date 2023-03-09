@@ -6,4 +6,4 @@ permalink: /experiment/experiments
 layout: default
 ---
 
-{: .fs-6 .fw-300 }
+# Experiments
