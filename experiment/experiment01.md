@@ -107,7 +107,7 @@ GitHub支持`Https`和`SSH`两种同步方式，前者做过多配置，但每�
     ssh-keygen
     ```
 
-在windows系统下，默认会在`我的文档/.ssh`目录下生成`id_rsa`文件和`id_rsa.pub`文件，使用文本编辑器打开`id_rsa.pub`，复制内容
+    在windows系统下，默认会在`我的文档/.ssh`目录下生成`id_rsa`文件和`id_rsa.pub`文件，使用文本编辑器打开`id_rsa.pub`，复制内容
 
 3. 进入[GitHub](https://github.com)，点击右上角的头像->`Settings`->`Access/SSH and GPG keys`->`New SSH key `，将ssh公钥复制到`Key`一栏中。
 
