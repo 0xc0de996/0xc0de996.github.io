@@ -154,14 +154,11 @@ GitHub支持`Https`和`SSH`两种同步方式，前者做过多配置，但每�
 
 
 
-
-
-{: .note }
-以上内容若有任何问题，请联系助教
+> 以上内容若有任何问题，请联系助教
 
 ---
 
 
-[^1]: [Git 教程 | 菜鸟教程 (runoob.com)](https://www.runoob.com/git/git-tutorial.html)
+[^1]: https://www.runoob.com/git/git-tutorial.html
 [^2]: [【狂神说Java】Git最新教程通俗易懂_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1FE411P7B3/?spm_id_from=333.337.search-card.all.click)
 [^3]: [Git - Book (git-scm.com)](https://git-scm.com/book/en/v2)
