@@ -159,6 +159,6 @@ GitHub支持`Https`和`SSH`两种同步方式，前者做过多配置，但每�
 ---
 
 
-[^1]: https://www.runoob.com/git/git-tutorial.html
-[^2]: [【狂神说Java】Git最新教程通俗易懂_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1FE411P7B3/?spm_id_from=333.337.search-card.all.click)
+[^1]: [Git菜鸟教程](https://www.runoob.com/git/git-tutorial.html)
+[^2]: [【狂神说Java】Git最新教程通俗易懂bilibili](https://www.bilibili.com/video/BV1FE411P7B3/?spm_id_from=333.337.search-card.all.click)
 [^3]: [Git - Book (git-scm.com)](https://git-scm.com/book/en/v2)
