@@ -154,6 +154,11 @@ GitHub支持`Https`和`SSH`两种同步方式，前者做过多配置，但每�
 
 
 
+{: .warning }
+> This website documents the features of the current `main` branch of the Just the Docs theme. See for a list of releases, new features, and bug fixes.
+
+
+
 > 以上内容若有任何问题，请联系助教
 
 ---
