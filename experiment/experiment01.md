@@ -16,6 +16,10 @@ nav_order: 1
 
 ---
 
+{: .highlight}
+
+> 由于以下内容是第一次编辑，若存在描述不清、描述错误、完成困难等情况，请联系助教解决
+
 ## GitHub Classroom 简介
 
 本课程的采用GitHub Classroom发布实验任务。GitHub和GitHub Classroom都建立在Git技术基础之上，GitHub是一个基于Git的代码托管平台，而GitHub Classroom是一个基于GitHub的在线教育工具，用于管理和评估学生的编程作业。下面简要介绍下Git、GitHub以及GitHub Classroom。 
@@ -179,22 +183,17 @@ git push
 
 <img src="..\img\commit.png" width = "600" alt="提交作业" align=center/>
 
-{: .warning}
-
-> 注意本次实验截止到北京时间04/01/2023 00:00，过期无法提交，请务必在截至日期前完成实验，否则影响后续的所有实验
-
 {: .note}
 
 > 只要仓库内的文件有更新就会执行一次新的测试，你可以无限次的提交代码，以最后一次的提交做最终成绩
 
+{: .warning}
+
+> 注意本次实验截止到北京时间04/01/2023 00:00，过期无法提交，请务必在截至日期前完成实验，否则影响后续的所有实验
+
 {: .congratulations}
 
-> 恭喜完成本次实验。
-
-{: .highlight}
-
-> 由于以上内容是第一次编辑，若存在描述不清、描述错误、完成困难、等情况，请联系助教解决。
->
+> 恭喜完成本次实验
 
 ---
 
