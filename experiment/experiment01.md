@@ -148,16 +148,12 @@ GitHub支持`Https`和`SSH`两种同步方式，前者做过多配置，但每�
     ```
 
 {: .note }
+
 > 在实验中，需要clone远程的模板仓库到本地，完成代码提交到远程仓库进行自动评分，在此过程中需要用到`git clone` `git add` `git commit`和`git push`即可
 
 ## 加入GitHub Classroom
 
-
-
-{: .warning }
-> This website documents the features of the current `main` branch of the Just the Docs theme. See for a list of releases, new features, and bug fixes.
-
-
+{: .note }
 
 > 以上内容若有任何问题，请联系助教
 
