@@ -15,8 +15,8 @@ callouts:
   important:
     title: Important
     color: blue
-  new:
-    title: New
+  congratulations:
+    title: Congratulations
     color: green
   note:
     title: Note
