@@ -147,13 +147,50 @@ GitHub支持`Https`和`SSH`两种同步方式，前者做过多配置，但每�
 
 ## 加入GitHub Classroom
 
+在登录GitHub后，点击[链接](https://classroom.github.com/a/AaiacQ2l)，加入GitHub Classroom完成第一次实验。进入页面后点击自己的姓名绑定自己的GitHub账号，如下图所示。
+
+<img src="..\img\join classroom.png" width = "600" alt="加入课堂" align=center/>
+
+绑定账户后，会自动跳转到第一次的实验**Hello World**，点击绿色的`Accept this assignment`后，等待几秒会提示一个作业仓库链接（请刷新页面），如下图所示。
+
+<img src="..\img\accept assignment.png" width = "600"  alt="接受任务" align=center />
+
+<img src="..\img\accept assignment2.png" width = "600"  alt="接受任务" align=center />
+
+将该仓库clone到本地进行代码编写。
+
+```shell
+git clone 你的项目地址
+```
+
+在第一次实验中，请修改`experiment01/main.py`中的`main`函数，使其返回`Hello, World!`，注意**不要修改**同目录下的`text.py`文件，将修改好的文件上传到GitHub中，GitHub会进行自动的判分处理。
+
+```shell
+git add .
+git commit -m "第一次提交"
+git push
+```
+
+在提交后，下图红框中棕色的点代表代码正在执行，若通过测试则变成绿色的钩子，若未通过测试则变为红色的叉，同时会收到GitHub发送的测试失败邮件（通过则无）。
+
+<img src="..\img\commit.png" width = "600" alt="提交作业" align=center/>
+
+{: .note}
+
+> 只要仓库内的文件有更新就会执行一次新的测试，你可以无限次的提交代码，以最后一次的提交做最终成绩
+
+{: .congratulations}
+
+> 恭喜完成实验。
+
 {: .highlight}
 
-> 以上内容若有任何问题，请联系助教
+> 以上内容是第一次编辑，若存在描述不清，无法完成等情况，请联系助教。
+> 请务必完成以上内容，否则无法完成后续的所有实验。
 
 ---
 
 
 [^1]: [Git菜鸟教程](https://www.runoob.com/git/git-tutorial.html)
 [^2]: [Git最新教程通俗易懂bilibili](https://www.bilibili.com/video/BV1FE411P7B3/?spm_id_from=333.337.search-card.all.click)
-[^3]: [Git - Book (git-scm.com)](https://git-scm.com/book/en/v2)
+[^3]: [Git - Book](https://git-scm.com/book/en/v2)
