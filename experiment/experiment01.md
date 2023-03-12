@@ -154,11 +154,16 @@ GitHub支持`Https`和`SSH`两种同步方式，前者做过多配置，但每�
 
 
 
+{: .warning }
+> This website documents the features of the current `main` branch of the Just the Docs theme. See [the CHANGELOG]({% link CHANGELOG.md %}) for a list of releases, new features, and bug fixes.
+
+
+
 > 以上内容若有任何问题，请联系助教
 
 ---
 
 
 [^1]: [Git菜鸟教程](https://www.runoob.com/git/git-tutorial.html)
-[^2]: [【狂神说Java】Git最新教程通俗易懂bilibili](https://www.bilibili.com/video/BV1FE411P7B3/?spm_id_from=333.337.search-card.all.click)
+[^2]: [Git最新教程通俗易懂bilibili](https://www.bilibili.com/video/BV1FE411P7B3/?spm_id_from=333.337.search-card.all.click)
 [^3]: [Git - Book (git-scm.com)](https://git-scm.com/book/en/v2)
