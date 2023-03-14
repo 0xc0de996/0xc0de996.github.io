@@ -2,7 +2,7 @@
 layout: default
 title: 实验一：加入GitHub Classroom 
 parent: Experiments
-has_child: true
+has_children: true
 nav_order: 1
 ---
 
@@ -13,4 +13,5 @@ nav_order: 1
 {: .no_toc .text-delta }
 
 1. TOC
+
 {:toc}
