@@ -2,6 +2,7 @@
 layout: default
 title: Git的安装与使用
 parent: 实验一：加入GitHub Classroom
+grand_parent: Experiments
 nav_order: 2
 ---
 

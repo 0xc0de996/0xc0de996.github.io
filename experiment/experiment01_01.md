@@ -2,6 +2,7 @@
 layout: default
 title: GitHub Classroom 简介 
 parent: 实验一：加入GitHub Classroom
+grand_parent: Experiments
 nav_order: 1
 ---
 
