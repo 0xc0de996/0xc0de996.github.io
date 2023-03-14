@@ -67,5 +67,5 @@ git push
 
 {: .congratulations}
 
-> 恭喜完成本次实验]
+> 恭喜完成本次实验
 
