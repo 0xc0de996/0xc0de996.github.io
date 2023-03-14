@@ -25,7 +25,7 @@ nav_order: 3
 
 在登录GitHub后，点击[链接](https://classroom.github.com/a/AaiacQ2l)，加入GitHub Classroom完成第一次实验。进入页面后点击自己的姓名绑定自己的GitHub账号，如下图所示。
 
-<img src="C:\Users\11248\Desktop\0xc0de996.github.io\img\join classroom.png" width = "800" alt="加入课堂" align=center/>
+<img src="..\img\join classroom.png" width = "800" alt="加入课堂" align=center/>
 
 {: .note}
 
@@ -35,9 +35,9 @@ nav_order: 3
 
 绑定账户后，会自动跳转到第一次的实验**Hello World**，点击绿色的`Accept this assignment`后，等待几秒会提示一个作业仓库链接（请刷新页面），如下图所示。
 
-<img src="C:\Users\11248\Desktop\0xc0de996.github.io\img\accept assignment.png" width = "800"  alt="接受任务" align=center />
+<img src="..\img\accept assignment.png" width = "800"  alt="接受任务" align=center />
 
-<img src="C:\Users\11248\Desktop\0xc0de996.github.io\img\accept assignment2.png" width = "800"  alt="接受任务" align=center />
+<img src="..\img\accept assignment2.png" width = "800"  alt="接受任务" align=center />
 
 将该仓库clone到本地进行代码编写。
 
@@ -55,7 +55,7 @@ git push
 
 在提交后，下图红框中棕色的点代表代码正在执行，若通过测试则变成绿色的钩子，若未通过测试则变为红色的叉，同时会收到GitHub发送的测试失败邮件（通过则无）。
 
-<img src="C:\Users\11248\Desktop\0xc0de996.github.io\img\commit.png" width = "800" alt="提交作业" align=center/>
+<img src="..\img\commit.png" width = "800" alt="提交作业" align=center/>
 
 {: .note}
 
@@ -67,5 +67,5 @@ git push
 
 {: .congratulations}
 
-> 恭喜完成本次实验](https://git-scm.com/book/en/v2)
+> 恭喜完成本次实验]
 
